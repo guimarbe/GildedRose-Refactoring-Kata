@@ -2,14 +2,14 @@
 
 This Kata was originally created by [Terry Hughes](http://twitter.com/TerryHughes). It is already on GitHub [here](https://github.com/NotMyself/GildedRose). See also [Bobby Johnson's description of the kata](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/).
 
-I picked up this Java Refactoring Kata from [Emily Bache](https://twitter.com/emilybache) in her GitHub multilingual [Gilded Rose Refactoring Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) page. Emily translated the original C# Kata into other programming languages, where I started training the Java Kata.
+I picked up this Java Refactoring Kata from [Emily Bache](https://twitter.com/emilybache) in her GitHub multilingual [Gilded Rose Refactoring Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) page. Emily translated the original C# Kata into other programming languages, where I've started to train the Java Kata from that project.
 
-The main goal of this kata is to train your refactoring skills. But, also, is really useful for practicing writing good tests using different frameworks, approaches and it gives you a  better practice at handling a legacy code situation. Emily added text fixtures for Text-Based approval testing with TextTest (see [the TextTests](https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/master/texttests) from Emily's GitHub).
+The main goal of this kata is to train your refactoring skills. But, also, is really useful for writing good tests using a different framework, trying different approaches and it gives you a better practice at handling a legacy code situation. Moreover, Emily added text fixtures for Text-Based approval testing with TextTest (see [the TextTests](https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/master/texttests) from Emily's GitHub).
 
 
 ## How to use this Kata
 
-First of all, you can download the starter folder with the original Java Gilded Rose kata. The final folder contains my code, which one of the final results possible in this refactoring Kata.
+First of all, you can download the starter folder with the original Java Gilded Rose Refactoring Kata. The final folder contains my code, which is one of the final results possible in this refactoring Kata.
 
 **NOTES**
 >My code contains some Spanish comments.
